@@ -1,0 +1,17 @@
+{
+  "name": "remax-component-template",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Wei Zhu <yesmeck@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "remax build component -t ali -w",
+    "build": "remax build component -t ali"
+  },
+  "dependencies": {
+    "remax": "^2.6.0"
+  }
+}
